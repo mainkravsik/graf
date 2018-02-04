@@ -1,0 +1,19 @@
+c:\users\адад\documents\visual studio 2010\Projects\graf\graf\bin\Debug\graf.exe
+c:\users\адад\documents\visual studio 2010\Projects\graf\graf\bin\Debug\graf.pdb
+c:\users\адад\documents\visual studio 2010\Projects\graf\graf\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\адад\documents\visual studio 2010\Projects\graf\graf\obj\x86\Debug\graf.Form1.resources
+c:\users\адад\documents\visual studio 2010\Projects\graf\graf\obj\x86\Debug\graf.Properties.Resources.resources
+c:\users\адад\documents\visual studio 2010\Projects\graf\graf\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\адад\documents\visual studio 2010\Projects\graf\graf\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\адад\documents\visual studio 2010\Projects\graf\graf\obj\x86\Debug\graf.exe
+c:\users\адад\documents\visual studio 2010\Projects\graf\graf\obj\x86\Debug\graf.pdb
+C:\Users\A10\Desktop\graf\graf\graf\bin\Debug\graf.exe
+C:\Users\A10\Desktop\graf\graf\graf\bin\Debug\graf.pdb
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Debug\graf.csprojResolveAssemblyReference.cache
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Debug\graf.Form1.resources
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Debug\graf.Properties.Resources.resources
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Debug\graf.csproj.GenerateResource.Cache
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Debug\graf.csproj.CoreCompileInputs.cache
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Debug\graf.exe
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Debug\graf.pdb
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Debug\graf.Form2.resources

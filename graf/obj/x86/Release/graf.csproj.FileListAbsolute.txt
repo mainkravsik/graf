@@ -1,0 +1,9 @@
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Release\graf.Form1.resources
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Release\graf.Form2.resources
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Release\graf.Properties.Resources.resources
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Release\graf.csproj.GenerateResource.Cache
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Release\graf.csproj.CoreCompileInputs.cache
+C:\Users\A10\Desktop\graf\graf\graf\bin\Release\graf.exe
+C:\Users\A10\Desktop\graf\graf\graf\bin\Release\graf.pdb
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Release\graf.exe
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Release\graf.pdb

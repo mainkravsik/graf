@@ -1,0 +1,20 @@
+C:\Users\A10\Desktop\graf\graf\graf\bin\Release\graf.exe
+C:\Users\A10\Desktop\graf\graf\graf\bin\Release\graf.pdb
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Release\Grafs colors.csprojResolveAssemblyReference.cache
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Release\graf.Form1.resources
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Release\graf.Form2.resources
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Release\graf.Properties.Resources.resources
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Release\Grafs colors.csproj.GenerateResource.Cache
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Release\Grafs colors.csproj.CoreCompileInputs.cache
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Release\graf.exe
+C:\Users\A10\Desktop\graf\graf\graf\obj\x86\Release\graf.pdb
+D:\Ilya\Kem\Program\graf\graf\graf\bin\Release\graf.exe
+D:\Ilya\Kem\Program\graf\graf\graf\bin\Release\graf.pdb
+D:\Ilya\Kem\Program\graf\graf\graf\obj\x86\Release\Grafs colors.csprojResolveAssemblyReference.cache
+D:\Ilya\Kem\Program\graf\graf\graf\obj\x86\Release\graf.Form1.resources
+D:\Ilya\Kem\Program\graf\graf\graf\obj\x86\Release\graf.Form2.resources
+D:\Ilya\Kem\Program\graf\graf\graf\obj\x86\Release\graf.Properties.Resources.resources
+D:\Ilya\Kem\Program\graf\graf\graf\obj\x86\Release\Grafs colors.csproj.GenerateResource.Cache
+D:\Ilya\Kem\Program\graf\graf\graf\obj\x86\Release\Grafs colors.csproj.CoreCompileInputs.cache
+D:\Ilya\Kem\Program\graf\graf\graf\obj\x86\Release\graf.exe
+D:\Ilya\Kem\Program\graf\graf\graf\obj\x86\Release\graf.pdb
